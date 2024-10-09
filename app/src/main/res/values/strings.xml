@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Muscle App</string>
+    <string name="muscle_name">Nama_otot</string>
+    <string name="tv_description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="muscle_image">Gambar otot</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Biceps Brachii</item>
+        <item>Triceps Brachii</item>
+        <item>Deltoid</item>
+        <item>Pectoralis Major</item>
+        <item>Rectus Abdominis</item>
+        <item>Latissimus Dorsi</item>
+        <item>Quadriceps Femoris</item>
+        <item>Hamstrings</item>
+        <item>Gastrocnemius</item>
+        <item>Soleus</item>
+        <item>Sartorius</item>
+        <item>Gluteus Maximus</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Otot ini terletak di bagian depan lengan atas dan berperan dalam menekuk siku serta memutar lengan bawah (supinasi). Biceps sering digunakan dalam gerakan seperti mengangkat beban dan memainkan peran penting dalam stabilitas lengan saat membawa barang. </item>
+        <item>Triceps terletak di bagian belakang lengan atas dan berfungsi untuk meluruskan siku. Otot ini bekerja berlawanan dengan biceps, memungkinkan gerakan mendorong, seperti saat melakukan push-up atau melempar bola.</item>
+        <item>Deltoid adalah otot berbentuk segitiga yang menutupi bahu, bertanggung jawab atas gerakan mengangkat lengan ke depan, ke samping, dan ke belakang. Otot ini memainkan peran penting dalam stabilisasi sendi bahu selama berbagai aktivitas sehari-hari seperti mengangkat benda atau melempar.</item>
+        <item>Pectoralis major adalah otot besar yang terletak di dada bagian atas, dan berfungsi menggerakkan lengan ke arah tubuh serta membantu dalam gerakan dorong. Otot ini banyak digunakan dalam aktivitas fisik seperti push-up dan bench press serta dalam mengangkat beban di depan tubuh.</item>
+        <item>Terletak di bagian tengah perut, otot ini dikenal sebagai otot "six-pack" yang membantu menekuk tulang belakang ke depan. Rectus abdominis memainkan peran penting dalam stabilitas postur tubuh, membantu dalam aktivitas sehari-hari seperti duduk, berdiri, dan membungkuk.</item>
+        <item>Otot besar ini menutupi punggung bawah hingga tengah, dan berfungsi menarik lengan ke bawah serta ke belakang. Latissimus dorsi banyak digunakan dalam aktivitas seperti berenang, mendayung, dan memanjat, serta membantu dalam pergerakan bahu.</item>
+        <item>Terletak di bagian depan paha, quadriceps terdiri dari empat otot yang bersama-sama meluruskan lutut. Otot ini penting untuk gerakan seperti berlari, melompat, dan menaiki tangga, serta sangat aktif dalam olahraga yang melibatkan dorongan kaki.</item>
+        <item>Hamstrings adalah kelompok otot di bagian belakang paha yang berfungsi untuk menekuk lutut dan meluruskan pinggul. Otot ini penting dalam aktivitas seperti berjalan, berlari, dan melompat, serta sering tegang dalam latihan intensif seperti sprinting.</item>
+        <item>Terletak di betis, gastrocnemius membantu dalam gerakan plantar fleksi (menekan telapak kaki ke bawah). Otot ini aktif selama berjalan, berlari, dan melompat, serta bekerja bersama dengan soleus untuk mendukung stabilitas kaki saat berdiri atau berjalan.</item>
+        <item>Berada di bawah gastrocnemius di betis, soleus juga membantu plantar fleksi, tetapi lebih dominan saat berdiri atau berjalan untuk waktu yang lama. Otot ini mendukung aktivitas seperti berdiri tegak dan berjalan jarak jauh, serta menjaga keseimbangan tubuh.</item>
+        <item>Sartorius adalah otot terpanjang di tubuh manusia yang melintang dari pinggul ke bagian dalam lutut. Otot ini membantu dalam gerakan menekuk lutut dan memutar paha keluar (rotasi lateral). Otot ini aktif dalam aktivitas seperti duduk bersila, serta membantu dalam stabilisasi gerakan kaki.</item>
+        <item>Gluteus maximus adalah otot terbesar di tubuh manusia, terletak di bokong. Otot ini berfungsi untuk meluruskan (ekstensi) dan memutar paha, serta memainkan peran utama dalam aktivitas seperti berjalan, berlari, dan melompat. Selain mendukung pergerakan pinggul, otot ini juga memberikan bentuk dan stabilitas pada panggul saat berdiri.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/biceps_brachii</item>
+        <item>@drawable/triceps_brachii</item>
+        <item>@drawable/deltoid</item>
+        <item>@drawable/pectoralis_major</item>
+        <item>@drawable/rectus_abdominis</item>
+        <item>@drawable/latissimus_dorsi</item>
+        <item>@drawable/quadriceps_femoris</item>
+        <item>@drawable/hamstrings</item>
+        <item>@drawable/gastrocnemius</item>
+        <item>@drawable/soleus</item>
+        <item>@drawable/sartorius</item>
+        <item>@drawable/gluteus_maximusjpg</item>
+    </array>
+
+</resources>

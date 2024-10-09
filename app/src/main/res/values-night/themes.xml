@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MuscleApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/Yellow</item>
+        <item name="colorOnPrimary">@color/Orange</item>
+        <item name="colorSecondary">@color/Yellow_Tua</item>
+        <item name="colorOnSecondary">@color/Orange_muda</item>
+    </style>
+</resources>

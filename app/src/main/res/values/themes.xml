@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Muscleapp" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/Yellow</item>
+        <item name="colorOnPrimary">@color/Orange</item>
+        <item name="colorSecondary">@color/Yellow_Tua</item>
+        <item name="colorOnSecondary">@color/Orange_muda</item>
+    </style>
+</resources>

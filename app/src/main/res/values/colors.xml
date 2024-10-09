@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#607D8B</color>
+    <color name="gray_light">#B0BEC5</color>
+    <color name="beige">#FFF5E0</color>
+    <color name="hijau_muda">#8DECB4</color>
+    <color name="hijau_tua">#41B06E</color>
+    <color name="navy">#141E46</color>
+    <color name="colorSubtitle">#757575</color>
+    <color name="Yellow">#FFFBDA</color>
+    <color name="Orange">#ED9455</color>
+    <color name="Yellow_Tua">#FFEC9E</color>
+    <color name="Orange_muda">#ED9455</color>
+</resources>
